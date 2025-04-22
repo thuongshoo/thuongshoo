@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuongshoo
 - 👀 I’m interested in embedded system, IOT
-- 🌱 I’m currently learning Golang, backend system, Oracle
+- 🌱 I’m currently learning face recognition
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yuyoonshoo@gmail.com
 
